@@ -2,11 +2,12 @@ OurYincart2 修改自
 Yincart2 Galaxy System
 
 根据学习和个人需要进行修改
-by @Tony
+by Tony
 ===================================
 修改目标：
 1 创建dev branch
-
+2
+3
 
 ========
 
